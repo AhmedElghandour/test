@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\ca5fd8685627a33c544c797fc7f49e1d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\bc529caa2a03bbe6ea80383471e4893e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e312964c3c1a6fb64f4b9cad15b7cd29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\da8ececf2608d6dc3e1cb4773c4358df\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.1.0-alpha02.aar\6c0c39176bc4275f188be9b3f6e9aeec\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\fac4ebbc456ebceb70aa7a96f1646501\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\aa97ca5ef26571c0e00bc39152b1fd02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\a27de266421ada1b130631d041a61eec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7e664526ed1a394a7cea91c2d9012c4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6108e6b1f8564563e2b2521a52997372\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9b56addc19940e38eb05ff83dfc0f26f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e8f55d6cdefd6c42d6a602757889b2f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\486fc192066b809e1e1ec5961d4d182d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\b91f51a9d18d059019464ac75bb1ce15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\6bdb5a3850da180135d696edddde700e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\14b7330caf6fbf304f46e1a26c5e8af9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3571264b01ae28d8a07cc4c64e118250\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c8df19a09501a129f0f2806b5398da6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\e9e02205fc482b470df39e9f50d27e58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fd0fdd710c69fcb41b9dfc79c68e6f66\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ef2657d7843025d650babe480f7f8155\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6de612def9a8f49a6bf4f7741c4e7590\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d9bf391813397d041ef4fc92bb25ec2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\ac93bf24ab0a3a7432a3cda1b1d72c6f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b297bd84bb424db93c08c102c124f486\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2b302e0d44cf0ee2af17458fba642635\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.1.0-alpha02.aar\e2406b92d6fe2abab36c5113e94e1f69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha02.aar\84522971a528c14b03111aae4c13a107\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.1.0-alpha02.aar\5a8df7e4ad434d257bfec9137d16e881\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.1.0-alpha02.aar\272ec806ecba4dea3d39d50e0a3a3f24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\5a89dbc94edf4e3ecfcbc7f77279975c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\04906a9af74822d798f270af77d7ca1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06bfd9bfeb88d59eca3a9fa0f5d74e8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a84ed64758f0891280428d0f14b48e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88c37cf75b730e0944176f55ef545143\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\90f690163026fe57f71e836c7b7b8bf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\11fac93bd134bc722c0a2031571ed460\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\ca5fd8685627a33c544c797fc7f49e1d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\ca5fd8685627a33c544c797fc7f49e1d\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\da8ececf2608d6dc3e1cb4773c4358df\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\da8ececf2608d6dc3e1cb4773c4358df\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.1.0-alpha02.aar\6c0c39176bc4275f188be9b3f6e9aeec\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.1.0-alpha02.aar\6c0c39176bc4275f188be9b3f6e9aeec\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\fac4ebbc456ebceb70aa7a96f1646501\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\fac4ebbc456ebceb70aa7a96f1646501\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\ac93bf24ab0a3a7432a3cda1b1d72c6f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\ac93bf24ab0a3a7432a3cda1b1d72c6f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\11fac93bd134bc722c0a2031571ed460\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\11fac93bd134bc722c0a2031571ed460\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.jldubz.gistaviewer.ui.MainActivity
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:13:9-27:20
+	android:label
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:15:13-56
+	android:launchMode
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:17:13-43
+	android:icon
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:16:13-47
+	android:theme
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:18:13-53
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:14:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:22:27-74
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:24:13-26:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:25:25-66
+activity#com.jldubz.gistaviewer.ui.gists.GistActivity
+ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:parentActivityName
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:30:13-80
+	android:icon
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml:29:13-72
+uses-sdk
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\ca5fd8685627a33c544c797fc7f49e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\ca5fd8685627a33c544c797fc7f49e1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\bc529caa2a03bbe6ea80383471e4893e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\bc529caa2a03bbe6ea80383471e4893e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e312964c3c1a6fb64f4b9cad15b7cd29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e312964c3c1a6fb64f4b9cad15b7cd29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\da8ececf2608d6dc3e1cb4773c4358df\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\da8ececf2608d6dc3e1cb4773c4358df\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.1.0-alpha02.aar\6c0c39176bc4275f188be9b3f6e9aeec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.1.0-alpha02.aar\6c0c39176bc4275f188be9b3f6e9aeec\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\fac4ebbc456ebceb70aa7a96f1646501\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\fac4ebbc456ebceb70aa7a96f1646501\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\aa97ca5ef26571c0e00bc39152b1fd02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\aa97ca5ef26571c0e00bc39152b1fd02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\a27de266421ada1b130631d041a61eec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\a27de266421ada1b130631d041a61eec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7e664526ed1a394a7cea91c2d9012c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7e664526ed1a394a7cea91c2d9012c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6108e6b1f8564563e2b2521a52997372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6108e6b1f8564563e2b2521a52997372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9b56addc19940e38eb05ff83dfc0f26f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9b56addc19940e38eb05ff83dfc0f26f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e8f55d6cdefd6c42d6a602757889b2f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e8f55d6cdefd6c42d6a602757889b2f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\486fc192066b809e1e1ec5961d4d182d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\486fc192066b809e1e1ec5961d4d182d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\b91f51a9d18d059019464ac75bb1ce15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\b91f51a9d18d059019464ac75bb1ce15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\6bdb5a3850da180135d696edddde700e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\6bdb5a3850da180135d696edddde700e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\14b7330caf6fbf304f46e1a26c5e8af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\14b7330caf6fbf304f46e1a26c5e8af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3571264b01ae28d8a07cc4c64e118250\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3571264b01ae28d8a07cc4c64e118250\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c8df19a09501a129f0f2806b5398da6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c8df19a09501a129f0f2806b5398da6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\e9e02205fc482b470df39e9f50d27e58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\e9e02205fc482b470df39e9f50d27e58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fd0fdd710c69fcb41b9dfc79c68e6f66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fd0fdd710c69fcb41b9dfc79c68e6f66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ef2657d7843025d650babe480f7f8155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ef2657d7843025d650babe480f7f8155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6de612def9a8f49a6bf4f7741c4e7590\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6de612def9a8f49a6bf4f7741c4e7590\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d9bf391813397d041ef4fc92bb25ec2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d9bf391813397d041ef4fc92bb25ec2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\89267303f7d71b000827831218ae6878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\ac93bf24ab0a3a7432a3cda1b1d72c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\ac93bf24ab0a3a7432a3cda1b1d72c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b297bd84bb424db93c08c102c124f486\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b297bd84bb424db93c08c102c124f486\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2b302e0d44cf0ee2af17458fba642635\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2b302e0d44cf0ee2af17458fba642635\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.1.0-alpha02.aar\e2406b92d6fe2abab36c5113e94e1f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.1.0-alpha02.aar\e2406b92d6fe2abab36c5113e94e1f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha02.aar\84522971a528c14b03111aae4c13a107\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha02.aar\84522971a528c14b03111aae4c13a107\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.1.0-alpha02.aar\5a8df7e4ad434d257bfec9137d16e881\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.1.0-alpha02.aar\5a8df7e4ad434d257bfec9137d16e881\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.1.0-alpha02.aar\272ec806ecba4dea3d39d50e0a3a3f24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.1.0-alpha02.aar\272ec806ecba4dea3d39d50e0a3a3f24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\5a89dbc94edf4e3ecfcbc7f77279975c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\5a89dbc94edf4e3ecfcbc7f77279975c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\04906a9af74822d798f270af77d7ca1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\04906a9af74822d798f270af77d7ca1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06bfd9bfeb88d59eca3a9fa0f5d74e8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06bfd9bfeb88d59eca3a9fa0f5d74e8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a84ed64758f0891280428d0f14b48e7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a84ed64758f0891280428d0f14b48e7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88c37cf75b730e0944176f55ef545143\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88c37cf75b730e0944176f55ef545143\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\90f690163026fe57f71e836c7b7b8bf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\90f690163026fe57f71e836c7b7b8bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\11fac93bd134bc722c0a2031571ed460\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\11fac93bd134bc722c0a2031571ed460\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed.elghandour\Downloads\SoftXpert\Ex_Files_Android_Development_RetroFit\Ex_Files_Android_Development_RetroFit\Exercise Files\03_02_end\GistAViewer\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0-alpha02] C:\Users\ahmed.elghandour\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.1.0-alpha02.aar\6f3f3c4ad9bad20efe03c9b156b7d092\AndroidManifest.xml:24:13-79

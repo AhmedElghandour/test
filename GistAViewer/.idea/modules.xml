@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GistAViewer.iml" filepath="$PROJECT_DIR$/.idea/modules/GistAViewer.iml" group="GistAViewer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GistAViewer/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+#Tue Dec 01 21:36:47 EET 2020
+base.0=C\:\\Users\\ahmed.elghandour\\Downloads\\SoftXpert\\Ex_Files_Android_Development_RetroFit\\Ex_Files_Android_Development_RetroFit\\Exercise Files\\03_02_end\\GistAViewer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\ahmed.elghandour\\Downloads\\SoftXpert\\Ex_Files_Android_Development_RetroFit\\Ex_Files_Android_Development_RetroFit\\Exercise Files\\03_02_end\\GistAViewer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
